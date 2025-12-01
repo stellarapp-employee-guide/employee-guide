@@ -38,3 +38,5 @@ We provide specific SEO pages to help people discover our platform:
   https://www.stellar-app.net/empleo-en-espana  
 
 These pages connect to cities and professions inside Spain, helping employees and employers meet through StellarApp.
+
+For more details, visit the official platform: https://www.stellar-app.net
